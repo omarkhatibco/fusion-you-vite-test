@@ -15,7 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@tourlane/fusion-you": "0.3.1--canary.61.1191cde.0",
+    "@tourlane/fusion-you": "^0.3.1",
     "@pandacss/dev": "^0.5.1",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
