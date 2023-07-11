@@ -15,17 +15,17 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@tourlane/fusion-you": "^0.3.1",
-    "@pandacss/dev": "^0.5.1",
+    "@tourlane/fusion-you": "^0.3.3",
+    "@pandacss/dev": "^0.6.0",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
-    "@typescript-eslint/eslint-plugin": "^5.61.0",
-    "@typescript-eslint/parser": "^5.61.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "eslint": "^8.44.0",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.1",
+    "eslint-plugin-react-refresh": "^0.4.3",
     "typescript": "^5.1.6",
-    "vite": "^4.3.9"
+    "vite": "^4.4.2"
   }
 }
