@@ -1,19 +1,12 @@
-import { defineConfig } from '@pandacss/dev';
 import {
-  sharedFusionConfig,
-  FUSION_BUILD_INFO,
+  defineFusionYouConfig
 } from '@tourlane/fusion-you/theme';
 
-export default defineConfig({
+export default defineFusionYouConfig({
   include: [
-    FUSION_BUILD_INFO,
     './src/**/*.{js,jsx,ts,tsx}',
     './pages/**/*.{js,jsx,ts,tsx}',
   ],
-
-  exclude: [],
-
-  ...sharedFusionConfig,
 
   hash: true,
   optimize: true,
