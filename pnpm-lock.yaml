@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@tourlane/styled-system':
+    specifier: ^1.0.0
+    version: 1.0.0
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -2264,6 +2267,10 @@ packages:
       - jest
       - vitest
     dev: true
+
+  /@tourlane/styled-system@1.0.0:
+    resolution: {integrity: sha512-J1qR/7sdrBQF+uV5GDgnu1oDuiU3BvEGCAbzAfYoXbZgmi8iua9KnetqAN7X/89pPdIpb/7XkNaY/V+If+2aOg==}
+    dev: false
 
   /@ts-morph/common@0.22.0:
     resolution: {integrity: sha512-HqNBuV/oIlMKdkLshXd1zKBqNQCsuPEsgQOkfFQ/eUKjRlwndXW1AjN9LVkBEIukm00gGXSRmfkl0Wv5VXLnlw==}
